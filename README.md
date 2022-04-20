@@ -2,7 +2,7 @@
 ButterWeb is basically a new version of the web, you can host sites which will be displayed in Butter Dog Search
 
 # How to upload
-To upload a site, create a pull request. Or you can create an issue and link your repository.
+To upload a site, upload your folder and create a pull request. Or you can create an issue and link your repository.
 
 # Rules
 1. No gaming/unblocking sites
